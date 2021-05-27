@@ -1,0 +1,62 @@
+257
+     COLON   24
+258
+ SEMICOLON   26
+259
+    LBRACK   28
+260
+    RBRACK   30
+261
+      PLUS   32
+262
+     MINUS   34
+263
+     TIMES   36
+264
+    DIVIDE   38
+265
+        EQ   40
+266
+       NEQ   43
+267
+        LT   46
+268
+        LE   48
+269
+        GT   51
+270
+        GE   53
+271
+       AND   56
+272
+        OR   59
+273
+    ASSIGN   62
+274
+     WHILE   65
+275
+       FOR   71
+276
+     ARRAY   75
+277
+        IF   81
+278
+      THEN   84
+279
+      ELSE   89
+280
+        DO   94
+281
+     INTTY   97
+282
+  STRINGTY  101
+283
+       INT  109 0
+283
+       INT  111 12345
+284
+        ID  117 abc
+284
+        ID  121 Abc
+284
+        ID  125 a_bCd

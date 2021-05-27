@@ -1,0 +1,38 @@
+281
+     INTTY    1
+284
+        ID    5 a
+258
+ SEMICOLON    6
+281
+     INTTY    9
+284
+        ID   13 bB
+258
+ SEMICOLON   15
+282
+  STRINGTY   18
+284
+        ID   25 c_Cc3
+258
+ SEMICOLON   30
+284
+        ID   35 a
+273
+    ASSIGN   37
+283
+       INT   39 3
+258
+ SEMICOLON   40
+284
+        ID   43 bB
+273
+    ASSIGN   46
+284
+        ID   48 a
+261
+      PLUS   50
+283
+       INT   52 4
+258
+ SEMICOLON   53

@@ -1,0 +1,26 @@
+285
+       FUN    1
+284
+        ID    5 fun_name
+286
+   RETURNS   14
+281
+     INTTY   22
+287
+    LPAREN   25
+281
+     INTTY   26
+284
+        ID   30 arg1
+289
+     COMMA   34
+281
+     INTTY   36
+284
+        ID   40 arg2
+288
+    RPAREN   44
+290
+    LBRACE   45
+291
+    RBRACE   54

@@ -1,0 +1,46 @@
+285
+       FUN   28
+284
+        ID   32 square
+286
+   RETURNS   39
+281
+     INTTY   47
+287
+    LPAREN   50
+281
+     INTTY   51
+284
+        ID   55 x
+288
+    RPAREN   56
+290
+    LBRACE   57
+292
+    RETURN   64
+284
+        ID   71 x
+263
+     TIMES   73
+284
+        ID   75 x
+258
+ SEMICOLON   76
+291
+    RBRACE   79
+281
+     INTTY   84
+284
+        ID   88 a
+273
+    ASSIGN   90
+284
+        ID   92 square
+287
+    LPAREN   98
+283
+       INT   99 6
+288
+    RPAREN  100
+258
+ SEMICOLON  101

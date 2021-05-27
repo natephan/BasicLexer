@@ -1,0 +1,24 @@
+281
+     INTTY   55
+284
+        ID   59 not_a_comment
+273
+    ASSIGN   73
+283
+       INT   75 4
+258
+ SEMICOLON   76
+281
+     INTTY  138
+284
+        ID  142 b
+273
+    ASSIGN  144
+284
+        ID  146 not_a_comment
+261
+      PLUS  160
+283
+       INT  162 1
+258
+ SEMICOLON  163
